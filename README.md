@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there 👋
+
+- 🌱 I’m currently learning [Rust] and [Typst].
+- 🔤 I speak Chinese (Mandarin, Cantonese and Hakkanese), English and French.
+- 👂 _Johan_ is a French name and can be pronounced as /ʒɔɑ̃/ or /ʒɔan/. It's fine to pronounce it the same as _John_ in English.
+
+[Rust]: https://github.com/rust-lang/rust
+[Typst]: https://github.com/typst/typst
 
 <!--
 **johanvx/johanvx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +13,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
