@@ -4,6 +4,9 @@
 - 🔤 I speak Chinese (Mandarin, Cantonese and Hakkanese), English and French.
 - 👂 _Johan_ is a French name and can be pronounced as /ʒɔɑ̃/ or /ʒɔan/. It's fine to pronounce it the same as _John_ in English.
 
+| ![Johan Xie's GitHub stats](https://github-readme-stats.vercel.app/api?username=johanvx&show_icons=true&count_private=true&bg_color=00000000&hide_border=true) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johanvx&layout=compact&bg_color=00000000&hide_border=true) |
+| --- | --- |
+
 [Rust]: https://github.com/rust-lang/rust
 [Typst]: https://github.com/typst/typst
 
